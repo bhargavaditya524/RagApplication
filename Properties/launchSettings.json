@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "RagApplication": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:50983;http://localhost:50984"
+    }
+  }
+}
